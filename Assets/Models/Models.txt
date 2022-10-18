@@ -1,0 +1,4 @@
+
+Please store here your 3d model assets within folders. These will contain both the .obj file as well as any textures used by the object.
+
+Please name the folder appropriately, with the prefix obj so that it can be found easily. (eg, Obj-ExampleName).

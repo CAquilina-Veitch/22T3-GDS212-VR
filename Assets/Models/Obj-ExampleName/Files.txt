@@ -1,0 +1,4 @@
+
+Here should be saved both the .obj file as well as any textures used by the object.
+
+Please name the 3d Model with the same name as this enclosing folder, as well as any texture, plus a prefix for its type (eg, Albedo-ExampleName).

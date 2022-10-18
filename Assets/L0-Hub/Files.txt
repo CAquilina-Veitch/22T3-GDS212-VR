@@ -1,0 +1,7 @@
+The scene is stored here. Please ensure it is named with its level prefix "L#-" plus the level name.
+
+Please store your level dependent assets here. Do not include 3D models, audio, or anything else that might be used by another team to ensure we do not overlap our work. Use your best judgement. 
+
+Please store scripts within the enclosed folder, created with the your level preface. (eg. "L1-PrinterScript")
+
+Thank you.

@@ -1,0 +1,8 @@
+
+Please store your art assets here. 
+
+If these images fall into groups or categories, please use a folder and name it appropriately.
+
+(eg, all poster images in a "Posters folder").
+
+Please prefix the image with "Img-" so that it can be found easily. (eg, Img-ExampleName).
